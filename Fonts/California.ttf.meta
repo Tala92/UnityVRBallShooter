@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ea1d49273d497d54ca49c88f46b053a5
+timeCreated: 1491684782
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: California
+  fontNames:
+  - California
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,74 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\FirstGames\BallShooter\buildForWindowsOculusWIthoutSounds_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 5760x1424 at -1920,-224
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Compositor failed to initialize.Compositor failed to initialize.UnloadTime: 1.179466 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2298 -> priority: 1 
+  Thread -> id: 1f00 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.987713 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 573.
+Total: 0.261723 ms (FindLiveObjects: 0.048752 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.184318 ms  DeleteObjects: 0.012401 ms)
+
+Score: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Score: 30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Score: 55
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Score: 70
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Score: 85
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Score: 100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Score: 115
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Score: 130
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Score: 145
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
